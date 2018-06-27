@@ -4,9 +4,7 @@ title: 'What I&#8217;m doing now'
 date: 2015-10-24T15:46:22+00:00
 author: Peter Backx
 layout: page
-guid: http://www.streamhead.com/?page_id=3804
-pdrp_attributionLocation:
-  - tag
+sidebar_link: true
 ---
 Inspired by [Derek Sivers now page](http://sivers.org/now), here&#8217;s what I am doing right now (last update June 2017):
 
