@@ -15,7 +15,7 @@ Inspired by [Derek Sivers now page](http://sivers.org/now), here’s what I am d
 * Moving my site from WPEngine to Github Pages.
 * Rewatching Futurama.
 
-<img src="http://www.streamhead.com/wp-content/uploads/2015/10/D0D60BD6.jpg" alt="A clock always pointing to "now"" width="500" height="500" srcset="http://www.streamhead.com/wp-content/uploads/2015/10/D0D60BD6.jpg 500w, http://www.streamhead.com/wp-content/uploads/2015/10/D0D60BD6-300x300.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />
+![A clock always pointing to "now"](http://www.streamhead.com/wp-content/uploads/2015/10/D0D60BD6.jpg)
 
 What I’m not doing right now:
 
@@ -23,4 +23,4 @@ What I’m not doing right now:
 * [Printing and assembling a robot](http://wirebeings.com/). The basic functions are working. Now I'd like to add a gyro and distance sensor to have it automap it's surroundings. But the project lost a bit of steam and is on hold for now.
 * Working [on](http://amzn.to/1XpS4Vz) various [smaller](https://www.discogsscan.com) side projects (only 2 left, I started with 7 two years ago).
 
-<div style="width:100%;height:0;padding-bottom:82%;position:relative;"><iframe src="[https://giphy.com/embed/8JCpZKh3klTb2](https://giphy.com/embed/8JCpZKh3klTb2 "https://giphy.com/embed/8JCpZKh3klTb2")" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="[https://giphy.com/gifs/futurama-8JCpZKh3klTb2](https://giphy.com/gifs/futurama-8JCpZKh3klTb2 "https://giphy.com/gifs/futurama-8JCpZKh3klTb2")">via GIPHY</a></p>
+
