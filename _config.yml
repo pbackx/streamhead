@@ -27,7 +27,7 @@ markdown: kramdown
 paginate: 5
 plugins:
   - jekyll-feed
-theme: jekyll-theme-hydeout
+# theme: jekyll-theme-hydeout Github doesn't like this
 remote_theme: fongandrew/hydeout
 
 # Exclude from processing.
