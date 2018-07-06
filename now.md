@@ -23,4 +23,4 @@ What I’m not doing right now:
 * [Printing and assembling a robot](http://wirebeings.com/). The basic functions are working. Now I'd like to add a gyro and distance sensor to have it automap it's surroundings. But the project lost a bit of steam and is on hold for now.
 * Working [on](http://amzn.to/1XpS4Vz) various [smaller](https://www.discogsscan.com) side projects (only 2 left, I started with 7 two years ago).
 
-
+<iframe src="https://giphy.com/embed/2ZhnUxMwmbKEg" width="480" height="305" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/futurama-2ZhnUxMwmbKEg">via GIPHY</a></p>
