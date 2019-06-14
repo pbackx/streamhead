@@ -6,14 +6,14 @@ author: Peter Backx
 layout: page
 sidebar_link: true
 ---
-Inspired by [Derek Sivers now page](http://sivers.org/now), here’s what I am doing right now (last update June 2017):
+Inspired by [Derek Sivers now page](http://sivers.org/now), here’s what I am doing right now (last update June 2019):
 
 * Enjoying family life.
 * [Working as a freelancer, helping my clients improve their Data with AI and Java](http://peated.be/).
 * After two years trying out various things, [I'm finally starting a new project](https://www.buildastockportfolio.com/)!
 * [Reading](https://www.goodreads.com/user/show/37577599-peter-backx). Among others, [the entire Dune saga](http://www.dunenovels.com/). Next up is Heretics of Dune.
 * Organizing my music collection using the awesome [Beets](http://beets.io/).
-* Rewatching [Lost](https://lostpedia.fandom.com/wiki/Main_Page). The first season is still awesome, can't wait to see what I think of the later seasons.
+* Rewatching [Lost](https://lostpedia.fandom.com/wiki/Main_Page). The first and second season are still awesome, can't wait to see what I think of the later seasons.
 
 ![A clock always pointing to "now"](http://www.streamhead.com/wp-content/uploads/2015/10/D0D60BD6.jpg)
 
