@@ -6,21 +6,22 @@ author: Peter Backx
 layout: page
 sidebar_link: true
 ---
-Inspired by [Derek Sivers now page](http://sivers.org/now), here’s what I am doing right now (last update September 2019):
+Inspired by [Derek Sivers now page](http://sivers.org/now), here’s what I am doing right now (last update March 2020):
 
-* Enjoying family life.
+* Enjoying family life, locked down at home due to the great Corona-covid19 thread.
 * [Working as a freelancer, helping my clients tame their Data](https://www.linkedin.com/in/pbackx/).
-* Slowly creating a backlog for [my new project](https://www.buildastockportfolio.com/)!
-* [Reading](https://www.goodreads.com/user/show/37577599-peter-backx). Among others, [the entire Dune saga](http://www.dunenovels.com/). I'm currently about halfway into Heretics of Dune.
-* Organizing my music collection using the awesome [Beets](http://beets.io/). I'm a perfectionist, so this is going to take some time.
-* [Creating and 3D printing fun stuff](https://www.streamhead.com/category/3d_printing.html).
+* Slowly creating a backlog for [my new project](https://www.buildastockportfolio.com/). I'm almost a year in, so, shortly, it will be time to evaluate how things are going.
+* [Reading](https://www.goodreads.com/user/show/37577599-peter-backx). Among others, [the entire Dune saga](http://www.dunenovels.com/). I'm a bit sidetracked right now reading (and not finishing) multiple books at the same time. I need to focus a bit more.
+* [Creating and 3D printing fun stuff](https://www.streamhead.com/category/3d_printing.html). More specifically I'm experimenting with [ColorFabb's varioShore TPU material](https://colorfabb.com/varioshore-tpu-black). It's something special.
+* I'm trying to start a new habit this year: [learning Japanese, 10 minutes a day](https://www.duolingo.com/profile/PeterBackx1).
 
 ![A clock always pointing to "now"](http://www.streamhead.com/wp-content/uploads/2015/10/D0D60BD6.jpg)
 
 What I’m not doing right now:
 
-* [Slowly winding down my side business, making sure my customers can find a good new home for their bookkeeping](http://www.streamhead.com/launching-my-first-vaadin-appengine-project/). It SaaS part of the site will officially close on December 31th 2019.
+* Organizing my music collection using the awesome [Beets](http://beets.io/). I'm a perfectionist, so this is going to take some time.
 * Building a [voice-controlled](https://aiyprojects.withgoogle.com/voice/) robot. It's still on the back burner.
+* I may revive my e-book "business", but I'm trying to hold of until I finish a few other things.
 * Printing 3D printed toys downloaded from Thingiverse. Most of my current projects are adaptations of existing projects. Modelled in either Fusion360 or OpenScad.
 
 <iframe src="https://giphy.com/embed/26xoplW0VhLLByrAY" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cute-sloth-slothilda-26xoplW0VhLLByrAY">via GIPHY</a></p>
