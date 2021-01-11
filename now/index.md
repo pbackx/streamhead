@@ -8,7 +8,7 @@ sidebar_link: true
 ---
 Inspired by [Derek Sivers now page](http://sivers.org/now), here’s what I am doing right now (last update January 2021):
 
-* Enjoying family life, locked down at home due to the great Corona-covid19 thread.
+* Enjoying family life, locked down at home due to the great Corona-covid19 threat.
 * [Working as a freelancer, helping my clients tame their Data](https://www.linkedin.com/in/pbackx/).
 * [Reading](https://www.goodreads.com/user/show/37577599-peter-backx). Among others, [the entire Dune saga](http://www.dunenovels.com/). I'm 20 pages from finishing the last Frank Herbert book (Chapterhouse). I'm a bit disappointed that there are only 2 books chronologically after the one I'm reading now, but I'm also looking forward to learning more about the Butlerian Jihad.
 * [Creating and 3D printing useful stuff](https://www.streamhead.com/category/3d_printing.html). Over the years I've had my printer, I see a move away from toys and junk towards useful things, like a case for that Jetson Nano, or custom dividers to clean up the mess in my drawer. I'm also putting some real thought into recycling prints I no longer use. Economically speaking, it makes no sense, but still, I may buy a Felfil or similar in the near future just to figure it all out.
