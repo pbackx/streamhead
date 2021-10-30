@@ -2,6 +2,7 @@
 title: Deep Learning Lego Sorter
 author: Peter Backx
 layout: post
+date: 2021-11-01 16:00:00
 categories:
   - 3D Printing
   - AI
@@ -29,7 +30,7 @@ On the software side, I use OpenCV, Keras, Tensorflow and the usual Python data 
 a deep learning model to categorize the Lego bricks.
 
 My current setup is only trained to recognize 3 types of bricks, but it does so with very high accuracy
-(+90%) even though the model is very basic. Obviously, the next step is to extend it and push different 
+(+95%) even though the model is very basic. Obviously, the next step is to extend it and push different 
 types of bricks through the system.
 
 ## The hardware
@@ -146,7 +147,5 @@ While there's still a lot to be improved. I'm very happy with how far I got. It 
 technology has come. We live in a great time when a single guy can build this kind of machines at home.
 And it was great fun!
 
-PS: I currently don't have building instructions for the actual machine. Modelling all of this in LDraw 
-or Stud.io may take a bit too much work. But please, if you are interested, contact me on 
-[Twitter](https://twitter.com/pbackx) 
- or [Facebook](https://www.facebook.com/streamhead) and I will see if I can make it happen.
+PS: [if you want to build the exact machine, I have created the plans in Bricklink's Studio and you can
+find them on Rebrickable](https://rebrickable.com/mocs/MOC-90902/pbackx/automated-lego-sorting-machine/)
