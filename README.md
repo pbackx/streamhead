@@ -32,3 +32,7 @@ From time to time, there will be enough security warnings that you will want to 
     bundle exec jekyll serve
 
 Open [http://127.0.0.1:4000](http://127.0.0.1:4000)
+
+Todo:
+Explain drafts
+Add info re IFTTT trigger for scheduled post
