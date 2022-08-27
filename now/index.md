@@ -8,13 +8,12 @@ sidebar_link: true
 ---
 Inspired by [Derek Sivers now page](http://sivers.org/now), here’s what I am doing right now (last update August 2021):
 
-* Holiday modus.
 * [Working as a freelancer, helping my clients tame their Data](https://www.linkedin.com/in/pbackx/).
-* [Reading](https://www.goodreads.com/user/show/37577599-peter-backx). Among others, [the entire Dune saga](http://www.dunenovels.com/). "Sandworms of Dune" is next, but first I have some other books I'd like to finish.
-* [Creating and 3D printing useful stuff](https://www.streamhead.com/category/3d_printing.html). I'm currently in the process of writing a long overdue blogpost regarding my latest project where I used 3D printing to make some parts behave nice together. 
+* [Reading](https://www.goodreads.com/user/show/37577599-peter-backx). Among others, [the entire Dune saga](http://www.dunenovels.com/). Apart from the books, I'm also enjoying the graphic novel versions. At the moment, the first two books are available. I have finished the main story line ("Sandworms of Dune") and I'm debating on how to tackle the other books. I will probably read them chronologically, so starting with "The Butlerian Jihad".
+* Making music. I don't really feel ready to show of anything, but I find it really relaxing, even if it's only short loops just for myself.
 * [Learning Japanese, 10 minutes a day](https://www.duolingo.com/profile/PeterBackx1). It's a very slow process.
-* I've also been playing more games lately. Fortnite and Minecraft mostly. I really enjoy the things that the community creates for these games. It's impressive how far they can take those engines with their creativity.
-* Preparing my [Home Assistant](https://www.home-assistant.io/) install to be migrated to a proper computer. I'm running it on a Raspberry Pi 3, but would like to move it to something more powerful.
+* I've also been playing more games lately. I'm only a few hours in, but "Immortals: Fenyx Rising" has some very satisfying combat.
+* Trying to make [Home Assistant](https://www.home-assistant.io/) manage my home energy. It sounds simple, but there are so many variables involved. I'm sure there are business ideas lurking in there.
 
 ![A clock always pointing to "now"](http://www.streamhead.com/wp-content/uploads/2015/10/D0D60BD6.jpg)
 
