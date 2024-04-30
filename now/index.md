@@ -11,7 +11,7 @@ Inspired by [Derek Sivers now page](http://sivers.org/now), here’s what I am d
 * [Working as a freelancer, helping my clients tame their data](https://www.linkedin.com/in/pbackx/).
 * Preparing to work on [an awesome startup project](https://www.longyan.io/) during the summer.
 * [Reading](https://www.goodreads.com/user/show/37577599-peter-backx). One goal is to read all [Dune novels](http://www.dunenovels.com/). I am currently on [The Battle of Corrin](https://en.wikipedia.org/wiki/Dune:_The_Battle_of_Corrin). While I can certainly understand the different opinions on the more recent additions to the Dune universe, I am really enjoying this trilogy.
-* Building various robots. One goal for 2024 is to revive [my Lego sorting project](https://www.streamhead.com/3d%20printing/ai/2021/11/01/deep-learning-lego-sorting.html) one way or the other.
+* Building various robots. One goal for 2024 is to revive [my Lego sorting project](https://www.streamhead.com/3d%20printing/ai/2021/11/01/deep-learning-lego-sorting.html). I am currently overhauling [the complete software stack](https://github.com/pbackx/lego-sorter-pi/).
 * [Learning Japanese, 10 minutes a day](https://www.duolingo.com/profile/PeterBackx1). I am also using WaniKani, but I still feel like I am at a plateau. As a challenge, I would like to take up reading manga comics, but I am struggling on how to approach this. I will be posting more thoughts on this on my blog.
 * My current videogame rotation: Fortnite, Forza Horizon and some random other things.
 
