@@ -10,8 +10,6 @@ Image:
   - http://www.streamhead.com/wp-content/uploads/2009/04/monitorus.png
 dsq_thread_id:
   - "16796745"
-categories:
-  - On Streamhead
 ---
 Any online business, small or large, niche or broad, depends on its servers. If the site is not online, no visitors will come, no sales will be made, no content nor ads displayed. Even worse, downtime could give the impression that your site is gone and thus, users might be tempted to remove your site from their bookmarks or newsreaders. Without question, monitoring your servers health is vital.
 

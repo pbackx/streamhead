@@ -8,8 +8,6 @@ guid: http://streamhead.com/willtell/?p=19
 permalink: /persuasion/
 dsq_thread_id:
   - "5437747"
-categories:
-  - On Streamhead
 ---
 I&#8217;ve always associated [Neuro Linguistic Programming (NLP)](http://en.wikipedia.org/wiki/Neuro-linguistic_programming) with guys trying to get girls in bed. I&#8217;m sure that sort-of gives you an impression of what I&#8217;ve been reading, probably a bad impression. But today, I was surprised to hear it mention in a totally different context, namely People management and Personal development. I always thought it was just a technique to convince people, usually against their better judgement. But it appears to be much broader then that.
   

@@ -9,8 +9,6 @@ permalink: /mixero-twitter-chaos-control/
 dsq_thread_id:
   - "88909507"
 image: /wp-content/uploads/2010/04/mixero_active_list.png
-categories:
-  - On Streamhead
 ---
 Those <a title="pbackx's Twitter page" href="http://twitter.com/pbackx" target="_blank">following me on Twitter</a> (hey, why aren&#8217;t you?) might have noticed an upswing in my Twitter usage lately. For the most part, this can be attributed to <a title="Mixero desktop" href="http://www.mixero.com/desktop.html" target="_blank">Mixero</a>, a fairly new Twitter client. I hear you thinking the world isn&#8217;t big enough for yet another Twitter client, but this one has a few options that you might want to try out.
 

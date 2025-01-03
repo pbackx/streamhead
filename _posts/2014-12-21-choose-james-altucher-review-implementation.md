@@ -9,8 +9,6 @@ permalink: /choose-james-altucher-review-implementation/
 pdrp_attributionLocation:
   - end
 image: /wp-content/uploads/2014/12/altucher_640x360-e1419165832734.jpeg
-categories:
-  - On Streamhead
 ---
 [Choose Yourself by James Altucher](http://www.amazon.com/gp/product/B00CO8D3G4/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00CO8D3G4&linkCode=as2&tag=streamhead-20&linkId=A5QJVJ6M4SXN57BL) is mostly a collection of rewritten blog posts. In his typical style James&#8217; explains why you may want to ignore most traditional career and business advice and go your own route.
 

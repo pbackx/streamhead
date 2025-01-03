@@ -9,10 +9,6 @@ permalink: /hardware-hacking-cd-player-repair-101/
 dsq_thread_id:
   - "78362386"
 image: /wp-content/uploads/2010/03/Pioneer_XC_L7.png
-categories:
-  - On Streamhead
-tags:
-  - 'Hardware Hacking: CD Player Repair 101'
 ---
 In a little detour from my usual posts, I present you a small tutorial on fixing a broken CD player. Actually, the post only goes into cleaning the player&#8217;s lens, which is the number one most common reason why a CD player will mallfunction. It&#8217;s a very basic repair, so don&#8217;t expect any complicated electro howto. It is however not something most people will easily do, because in most cases you&#8217;ll have to void your warranty. So only try this if your only other option is going to a repair guy.
 

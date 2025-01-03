@@ -9,8 +9,6 @@ permalink: /books-music-streamhead-store/
 dsq_thread_id:
   - ""
 image: /wp-content/uploads/2010/03/chocolate_shop.png
-categories:
-  - On Streamhead
 ---
 In the spirit of cleaning up some of my older projects, <a title="The Streamhead store" href="http://astore.amazon.co.uk/watje-21" target="_blank">I&#8217;ve completely overhauled my little Amazon store and added an entirely new category</a>. I know this sounds like a commercial message and yes, I will earn a small commission if you order anything, but the store is something I take seriously. I only offer things I&#8217;m absolutely sure you will like if you like this blog.
 

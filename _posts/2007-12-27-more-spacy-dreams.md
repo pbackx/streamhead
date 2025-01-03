@@ -6,8 +6,6 @@ author: Peter Backx
 layout: post
 guid: http://streamhead.com/willtell/?p=26
 permalink: /more-spacy-dreams/
-categories:
-  - On Streamhead
 ---
 In my continuing effort to bring you the obvious, I would like to point out another medium that has been keeping me busy on the go. Books. You might have forgotten about them, but they sure can be good entertainment, or they can be a source of great wisdom (or both, if you&#8217;re lucky).
 

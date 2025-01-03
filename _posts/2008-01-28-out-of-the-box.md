@@ -6,8 +6,6 @@ author: Peter Backx
 layout: post
 guid: http://www.streamhead.com/?p=50
 permalink: /out-of-the-box/
-categories:
-  - On Streamhead
 ---
 ![boxes](http://www.streamhead.com/wp-content/uploads/2008/01/boxesmain.jpg)
 

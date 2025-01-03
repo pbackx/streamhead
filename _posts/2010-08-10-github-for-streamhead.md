@@ -9,8 +9,6 @@ permalink: /github-for-streamhead/
 dsq_thread_id:
   - "127862573"
 image: /wp-content/uploads/2010/08/git_stash_pop.png
-categories:
-  - On Streamhead
 ---
 If you want to host some open source code, there are many many options. Going from the grand-daddy of all open source repositories SourceForge to some more unknown, like <a title="Streamhead's Coding Secrets Exposed" href="http://www.streamhead.com/coding-secrets-exposed/" target="_blank">Assembla</a>. But one host that has seen extreme growth over the last few years is undoubtedly <a title="GitHub" href="http://github.com/" target="_blank">GitHub</a>. It&#8217;s built on the Git system, which makes it incredibly easy to cooperate and exchange ideas in code. No longer is there a need to have dedicated teams working on a project. It&#8217;s all ad-hoc and social.
 

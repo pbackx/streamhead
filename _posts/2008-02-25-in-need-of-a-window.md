@@ -8,8 +8,6 @@ guid: http://www.streamhead.com/?p=57
 permalink: /in-need-of-a-window/
 dsq_thread_id:
   - "5437819"
-categories:
-  - On Streamhead
 ---
 [Need one?](http://cgi.benl.ebay.be/ws/eBayISAPI.dll?ViewItem&item=300202140068) 
 

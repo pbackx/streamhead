@@ -10,8 +10,6 @@ Image:
   - http://www.streamhead.com/wp-content/uploads/2009/11/autofeed_load.png
 dsq_thread_id:
   - "48162104"
-categories:
-  - On Streamhead
 ---
 <a title="Moving to paperless" href="http://www.streamhead.com/scanning-documents-step-moving-paperless-office/" target="_blank">In a bit of continuity</a>, I actually installed Ocropus and tried it out. Turns out, this really is beta software. There were a few too many loose nuts and bolts and I ended up going for a double headed VueScan and Evernote approach.
 

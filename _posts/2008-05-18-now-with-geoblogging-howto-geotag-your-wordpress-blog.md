@@ -8,8 +8,6 @@ guid: http://www.streamhead.com/?p=108
 permalink: /now-with-geoblogging-howto-geotag-your-wordpress-blog/
 dsq_thread_id:
   - "5437887"
-categories:
-  - On Streamhead
 ---
 [<img class="alignnone size-medium wp-image-109" title="Widescreen clouds in Deinze " src="http://www.streamhead.com/wp-content/uploads/2008/05/deinzews-300x168.png" alt="" width="300" height="168" srcset="http://www.streamhead.com/wp-content/uploads/2008/05/deinzews-300x168.png 300w, http://www.streamhead.com/wp-content/uploads/2008/05/deinzews.png 1224w" sizes="(max-width: 300px) 100vw, 300px" />](http://www.streamhead.com/wp-content/uploads/2008/05/deinzews.png)
 

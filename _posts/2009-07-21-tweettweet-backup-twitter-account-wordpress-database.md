@@ -10,8 +10,6 @@ Image:
   - http://www.streamhead.com/wp-content/uploads/2009/07/making_a_backup.png
 dsq_thread_id:
   - "26307978"
-categories:
-  - On Streamhead
 ---
 One thing that has been bothering me with social services is the difficulty of creating a backup. What would happen if Twitter suddenly dissapeared, or even worse, what would you do without your Delicious bookmarks? It has happened a few times before, services like Geocities and Stick-it were closed almost over night (I&#8217;m exagerating, but if you are on holidays in the wrong period, you might come back to see your data gone)
 

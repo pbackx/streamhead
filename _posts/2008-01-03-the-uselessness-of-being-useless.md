@@ -6,8 +6,6 @@ author: Peter Backx
 layout: post
 guid: http://streamhead.com/willtell/?p=32
 permalink: /the-uselessness-of-being-useless/
-categories:
-  - On Streamhead
 ---
 You&#8217;re either going to love this or be completely bored by it:
   

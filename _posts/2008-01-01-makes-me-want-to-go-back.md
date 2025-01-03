@@ -6,8 +6,6 @@ author: Peter Backx
 layout: post
 guid: http://streamhead.com/willtell/?p=30
 permalink: /makes-me-want-to-go-back/
-categories:
-  - On Streamhead
 ---
 [![El conquistador](http://streamhead.com/wp-content/uploads/2008/01/photo3e7dd7219d505.thumbnail.jpg)](http://streamhead.com/wp-content/uploads/2008/01/photo3e7dd7219d505.jpg "El conquistador")
 

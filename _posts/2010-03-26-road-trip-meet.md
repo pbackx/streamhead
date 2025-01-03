@@ -9,8 +9,6 @@ permalink: /road-trip-meet/
 dsq_thread_id:
   - "78733101"
 image: /wp-content/uploads/2010/03/westerner.png
-categories:
-  - On Streamhead
 ---
 During **June 2010**, 2 months from now, Streamhead will be on location, **road-tripping through the Western** part of the **United States**. The plans haven&#8217;t finalized yet, but that&#8217;s where I need some input. Inside the post, I&#8217;ve added a map with some of the locations that we might visit. I&#8217;d love to get some suggestions by insiders, little places that aren&#8217;t in any of the guides. Stuff like that. And most of all, **I&#8217;d love to meet up**.
 

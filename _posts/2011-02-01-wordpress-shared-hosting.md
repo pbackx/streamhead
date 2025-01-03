@@ -8,8 +8,6 @@ guid: http://www.streamhead.com/?p=3015
 permalink: /wordpress-shared-hosting/
 dsq_thread_id:
   - "220265490"
-categories:
-  - On Streamhead
 ---
 If you run a blog and want it to be read, you need a site that&#8217;s up and running as much as possible. WordPress will keep you away from many of the nasty site hosting details, but you can be sure that you will run into performance issues at some point. WordPress will help you with a number of useful plugins and options. This post lists 3 easily implemented strategies that should give you some extra mileage before you upgrade your hosting plan.
 

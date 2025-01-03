@@ -10,8 +10,6 @@ Image:
   - http://www.streamhead.com/wp-content/uploads/2009/09/money.png
 dsq_thread_id:
   - "33757842"
-categories:
-  - On Streamhead
 ---
 I see and adore many hobby webloggers and entrepreneurs on the Internet. People like <a title="Flight 404" href="http://www.flight404.com/blog/" target="_blank">Robert at Flight 404</a>, who create the most amazing things. Following them and their stories, like <a title="Coderspiel" href="http://technically.us/code" target="_blank">Nathan at Coderspiel</a>, you&#8217;re tempted to believe that this is what they do. This is how they live. But sometimes that spell is broken and it turns out, the blog is **just a hobby**. Jason Scott puts, what I think, a whole lifetime into archiving and documenting computer history, yet <a title="ASCII" href="http://ascii.textfiles.com/archives/2163" target="_blank">he has another life</a>, to pay for the hobby one.
 

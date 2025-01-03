@@ -10,8 +10,6 @@ Image:
   - http://www.streamhead.com/wp-content/uploads/2009/10/NAS.png
 dsq_thread_id:
   - "37227063"
-categories:
-  - On Streamhead
 ---
 Now that my new office is starting to come together, I have begun research into ways of storing all my files in a central location on the network. This has several advantages: they can be used from every device that is connected to my home network and I only have to backup one device.
 

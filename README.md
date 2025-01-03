@@ -20,6 +20,10 @@ Now you can install Jekyll and Bundler
 
     gem install jekyll bundler
 
+Next you need to manually install wdm [with a specific flag](https://stackoverflow.com/questions/17026441/ruby-how-to-install-a-specific-version-of-a-ruby-gem):
+
+    gem install wdm -v 0.1.1 -- --with-cflags=-Wno-implicit-function-declaration
+
 ## Upgrade Github pages
 
 From time to time, there will be enough security warnings that you will want to upgrade the Github pages gem:

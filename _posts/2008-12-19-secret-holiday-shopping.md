@@ -9,8 +9,6 @@ permalink: /secret-holiday-shopping/
 Image:
   - http://www.streamhead.com/wp-content/uploads/2008/12/giftideas.png
 image: /wp-content/uploads/2008/12/giftideas.png
-categories:
-  - On Streamhead
 ---
 &#8230; is to do it online. Just in time, I have added <a title="the Streamhead store" href="http://astore.amazon.co.uk/watje-21" target="_blank">an extra category to my store</a>. Nine products that will tickle your techy brain cells. There are a few gadgets in there that are so useful, you really need them and there&#8217;s some dreamy out-there things, to keep that imagination going.
 

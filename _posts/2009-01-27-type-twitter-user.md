@@ -10,8 +10,6 @@ Image:
   - http://www.streamhead.com/wp-content/uploads/2009/01/twitter.png
 dsq_thread_id:
   - "10303287"
-categories:
-  - On Streamhead
 ---
 One of my 2009 goals was to get to the bottom of **Twitter** and its users. What makes them tick? And why the hell is a service that only gives you 140 characters to express yourself so popular?
 

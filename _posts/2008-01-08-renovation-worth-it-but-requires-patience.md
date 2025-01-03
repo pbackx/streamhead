@@ -8,8 +8,6 @@ guid: http://www.streamhead.com/?p=38
 permalink: /renovation-worth-it-but-requires-patience/
 dsq_thread_id:
   - "5437786"
-categories:
-  - On Streamhead
 ---
 Currently, my main project is the renovation of a small house, I bought. The proper euphemism would be: it&#8217;s a challenge. Coordinating all the parties involved, finding the materials, maintaining the budget, and still liking the end-result. Not easy, but it is rewarding.
 

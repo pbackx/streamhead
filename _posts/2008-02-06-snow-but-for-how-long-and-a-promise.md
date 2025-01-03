@@ -6,8 +6,6 @@ author: Peter Backx
 layout: post
 guid: http://www.streamhead.com/?p=51
 permalink: /snow-but-for-how-long-and-a-promise/
-categories:
-  - On Streamhead
 ---
 <img src="http://ns34111.ovh.net/~gerardme/upload/webcam/image08-02-06_09-00-00-67.jpg" height="360" width="480" />
 

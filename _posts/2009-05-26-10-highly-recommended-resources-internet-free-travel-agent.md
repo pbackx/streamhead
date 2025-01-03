@@ -10,8 +10,6 @@ Image:
   - http://www.streamhead.com/wp-content/uploads/2009/05/travel_agent.png
 dsq_thread_id:
   - "19363087"
-categories:
-  - On Streamhead
 ---
 As you read this post, I will be on my first stop of a 3 week long roadtrip through New England (North East of the USA) and Canada. Usually, I don&#8217;t plan too much, but I do like to know my options before boarding the plane. The Lonely Planet and Rough Guides are my preferred paper helpers. But this year, I&#8217;ve really found the Internet to be an valuable resource.
 

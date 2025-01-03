@@ -10,8 +10,6 @@ Image:
   - http://www.streamhead.com/wp-content/uploads/2009/11/rossettis-bed-project-gutenberg.png
 dsq_thread_id:
   - "45291300"
-categories:
-  - On Streamhead
 ---
 The paperless office seems like the nirvana of any minimalist. The total lack of paper on my desk and the ability to use file drawers for more interesting stuff, has appealed to me for a long time. But I have been held back by many worries, most importantly is how to store all this information and how to keep it secured and backed up.
 

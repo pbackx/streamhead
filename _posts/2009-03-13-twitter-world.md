@@ -8,8 +8,6 @@ guid: http://www.streamhead.com/?p=1083
 permalink: /twitter-world/
 Image:
   - http://www.streamhead.com/wp-content/uploads/2009/03/around_the_world.png
-categories:
-  - On Streamhead
 ---
 If you aren&#8217;t yet following Paul Smith, aka <a title="Twitter / twitchhiker" href="http://twitter.com/twitchhiker" target="_blank">the Twitchhiker</a>, you should. Paul is attempting to reach the other side of the world by using Twitter. He is solliciting and accepting any help offered to him via Twitter. Do you have a spare bedroom, or want to take him out for diner along his path? Just let him know.
 

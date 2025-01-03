@@ -6,8 +6,6 @@ author: Peter Backx
 layout: post
 guid: http://www.streamhead.com/?p=167
 permalink: /surfing-the-real-world/
-categories:
-  - On Streamhead
 ---
 [umap id=&#8221;74832&#8243; tp=&#8221;6&#8243; size=&#8221;s&#8221; alignment=&#8221;center&#8221;]
 

@@ -13,8 +13,6 @@ aFhfc_footer_code:
 dsq_thread_id:
   - "5149790855"
 image: /wp-content/uploads/2016/06/xkcd_741_blogging.png
-categories:
-  - On Streamhead
 ---
 There are many tips out there to improve your blog. There are just as many people out there who claim to have found the one true way to maintain a blog. Over the last 10+ years I&#8217;ve run a blog in some form or other, I&#8217;ve read it all. So why would I read yet another book that claims to offer the magic formula for technical blogging?
 

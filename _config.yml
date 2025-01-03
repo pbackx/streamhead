@@ -18,8 +18,7 @@ email: peter.backx@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A maker's journal
 baseurl: # the subpath of your site, e.g. /blog
-url: http://www.streamhead.com # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: pbackx
+url: https://www.streamhead.com # the base hostname & protocol for your site, e.g. http://example.com
 github_username: pbackx
 
 #Publishing defaults

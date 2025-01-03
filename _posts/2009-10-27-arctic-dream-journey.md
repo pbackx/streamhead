@@ -10,8 +10,6 @@ Image:
   - http://www.streamhead.com/wp-content/uploads/2009/10/quark_expeditions.png
 dsq_thread_id:
   - "41955530"
-categories:
-  - On Streamhead
 ---
 When I started this blog, I used to feature a few &#8220;dream&#8221; items from time-to-time. Stuff that would be cool to have, but was out of my financial capabilities. I haven&#8217;t done this recently, because I&#8217;m a little more focused on what is within my means. However, <a title="Quark Expeditions - Wikipedia" href="http://en.wikipedia.org/wiki/Quark_Expeditions" target="_blank">Quark Expeditions</a> has tickled that part of my brain that wants the impossible (or at least things that require a certain dedication to get).
 

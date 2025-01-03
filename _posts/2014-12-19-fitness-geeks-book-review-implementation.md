@@ -9,8 +9,6 @@ permalink: /fitness-geeks-book-review-implementation/
 pdrp_attributionLocation:
   - end
 image: /wp-content/uploads/2014/12/fitness_for_geeks.png
-categories:
-  - On Streamhead
 ---
 One of the main things that struck me when reading [Fitness for Geeks](http://www.amazon.com/gp/product/B007UQN22A/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B007UQN22A&linkCode=as2&tag=streamhead-20&linkId=FEOMQ4Q3VKLWGBDT) was the importance that Bruce Perry gives to all kinds of nutrients, such as vitamins. Why is that?
 

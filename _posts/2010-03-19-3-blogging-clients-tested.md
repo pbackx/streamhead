@@ -9,8 +9,6 @@ permalink: /3-blogging-clients-tested/
 dsq_thread_id:
   - "77158027"
 image: /wp-content/uploads/2010/03/to_blog_or_not_to_blog.png
-categories:
-  - On Streamhead
 ---
 I&#8217;m currently testing a number of blogging clients. Clients that free you from the web browser for post writing and editing. This is a post written in and posted via <a href="http://www.zoundryraven.com/" target="_blank" title="Zoundry Raven: Think - Write - Publish">Zoundry Raven</a>. Among the many blogging clients available, I&#8217;ve selected three for closer inspection: the aforementioned <a href="http://www.zoundryraven.com/" target="_blank" title="Zoundry Raven: Think - Write - Publish">Raven</a>, <a href="http://www.blogdesk.org/en/index.htm" target="_blank" title="BlogDesk">BlogDesk</a> and <a href="http://www.scribefire.com/" target="_blank" title="Scribefire: Fire up your blogging">Scribefire</a>. The last one is an add-on for Firefox, the first two are standalone Windows applications. All support pretty much every blogging platform available. This post goes into some of the differences.
 

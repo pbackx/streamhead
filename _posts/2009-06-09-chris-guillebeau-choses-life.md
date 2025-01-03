@@ -10,8 +10,6 @@ Image:
   - http://www.streamhead.com/wp-content/uploads/2009/04/success.png
 dsq_thread_id:
   - "20951738"
-categories:
-  - On Streamhead
 ---
 Life philosophy is not the main topic of this blog, yet if you want to **reach any goal**, like media presence or technological innovation or both, you need to **think** about what it is you do, what your goals are and how to reach them. Marketing and innovation are two terms that are laden with a lot of theory and many quacks selling empty promises. Many books have been written, but **a new wave of young entrepreneurs thinks they can do it differently**.
 

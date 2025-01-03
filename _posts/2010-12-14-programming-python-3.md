@@ -9,8 +9,6 @@ permalink: /programming-python-3/
 dsq_thread_id:
   - "190760357"
 image: /wp-content/uploads/2010/12/programming_in_python_3.png
-categories:
-  - On Streamhead
 ---
 &#8220;The joy of coding Python should be in seeing short, concise, readable classes that express a lot of action in a small amount of clear code &#8212; not in reams of trivial code that bores the reader to death.&#8221; &#8211; <a title="Guido van Rossum" href="http://en.wikipedia.org/wiki/Guido_van_Rossum" target="_blank">Guido Van Rossum</a>
 

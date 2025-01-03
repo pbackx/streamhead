@@ -9,8 +9,6 @@ permalink: /9-guidelines-to-enjoy-blogging/
 dsq_thread_id:
   - "195087102"
 image: /wp-content/uploads/2010/12/three_year_of_blogging.png
-categories:
-  - On Streamhead
 ---
 Two weeks ago, Streamhead turned 3. Combined with the years end, it seems like a great idea to look back and reflect on why you might want to write your own blog and how you can enjoy the process in the long run. Because if you don&#8217;t, you&#8217;re probably not going to last a long time. So in this post I present 9 guidelines that help me keep going.
 

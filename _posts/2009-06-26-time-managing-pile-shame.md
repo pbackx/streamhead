@@ -10,8 +10,6 @@ Image:
   - http://www.streamhead.com/wp-content/uploads/2009/06/pile_of_shame.png
 dsq_thread_id:
   - "23045033"
-categories:
-  - On Streamhead
 ---
 The pile of shame might be unknown to you, but it seems like more and more people write about theirs. It is a pile of stuff (usually computer games) that you bought, but never played for more then a few minutes. Lately my pile is getting to monstrous sizes.
 

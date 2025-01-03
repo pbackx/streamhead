@@ -10,8 +10,6 @@ Image:
   - http://www.streamhead.com/wp-content/uploads/2008/08/thestore.png
 dsq_thread_id:
   - "5437987"
-categories:
-  - On Streamhead
 tags:
   - recommended
 ---

@@ -10,8 +10,6 @@ Image:
   - http://www.streamhead.com/wp-content/uploads/2010/01/mailman.png
 dsq_thread_id:
   - ""
-categories:
-  - On Streamhead
 ---
 I&#8217;ve recently switched to <a title="MailChimp" href="http://eepurl.com/g1j9" target="_blank">MailChimp</a> for email delivery of the new posts. MailChimp describes itself as an email marketing tool. What sets <a title="MailChimp" href="http://eepurl.com/g1j9" target="_blank">MailChimp</a> apart from similar tools, is the many many options for configuring campaigns, email lists and reports. All of this in a very user-friendly interface. Instead of FeedBurner&#8217;s very sparse mails, subscribers to Streamhead will now receive a nicely laid out, weekly email, summarizing all the activity on the site.
 
