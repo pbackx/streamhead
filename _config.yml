@@ -45,3 +45,6 @@ remote_theme: fongandrew/hydeout
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+collections:
+  brick_sorter_updates:
+    output: true
