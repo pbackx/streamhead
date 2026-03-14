@@ -8,21 +8,21 @@ This is the source for my website at [www.streamhead.com](https://www.streamhead
 
 ## Install Ruby and Jekyll
 
-For Windows, I have found that [scoop](https://scoop.sh/) is a handy tool:
+It is suggested to run this in WSL. Previously it was possible to run this directly on Windows,
+but this seems to be broken now.
 
-    scoop install ruby
-    scoop install msys2
-    msys2
-    exit
-    ridk install
+Follow the [official instruction](todo):
 
-Now you can install Jekyll and Bundler
+```bash
+sudo apt-get install ruby-full build-essential zlib1g-dev
 
-    gem install jekyll bundler
+echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
+source ~/.bashrc
 
-Next you need to manually install wdm [with a specific flag](https://stackoverflow.com/questions/17026441/ruby-how-to-install-a-specific-version-of-a-ruby-gem):
-
-    gem install wdm -v 0.1.1 -- --with-cflags=-Wno-implicit-function-declaration
+gem install jekyll bundler
+```
 
 ## Upgrade Github pages
 
