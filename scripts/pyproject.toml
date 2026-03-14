@@ -1,0 +1,12 @@
+[project]
+name = "streamhead-mailerlite-tools"
+version = "0.1.0"
+description = "Tools for MailerLite campaign management and archiving"
+authors = ["Peter Backx <peter@streamhead.com>"]
+dependencies = [
+    "requests",
+    "python-dotenv"
+]
+
+[tool.uv]
+# UV is used for dependency management
