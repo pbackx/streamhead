@@ -9,6 +9,7 @@ Automate retrieval of sent MailerLite campaigns and download their content for a
    - Add API key to a `.env` file as `MAILERLITE_API_KEY=your_key_here`.
    - Use `python-dotenv` to load the `.env` file in scripts.
    - Install dependencies using UV and pyproject.toml (see below).
+  - Required packages: `requests`, `python-dotenv`, `markdownify`.
 2. **List sent campaigns**
    - Use MailerLite API endpoint to fetch all campaigns.
    - Filter for campaigns with status 'sent'.
@@ -29,6 +30,7 @@ Automate retrieval of sent MailerLite campaigns and download their content for a
 
 ## Quality Criteria
 - Handles API errors gracefully (invalid key, no campaigns, etc).
+- Uses consistent quoting (single quotes) in Python scripts.
 - Loads API key from .env file reliably using python-dotenv.
 - Lists only sent campaigns (not drafts).
 - Downloads and saves content reliably.
