@@ -5,6 +5,9 @@ date: 2024-10-31
 category: Brick Sorter Updates
 back_page: brick_sorter_updates_archive
 ---
+This post was originally send out to my newsletter subscribers. The newsletter documents all my updates and imrpovements to the Lego Sorting bot. It is an almost monthly newsletter (in practice, I send out about 6 newsletters per year). You can read previous editions here, or you can subscribe using the form below.
+
+<div class="ml-embedded" data-form="wXZSvx"></div>
 
 ![](/assets/brick_sorter_updates/2024-10-31-lego-sorting-with-brickognize-ai-and-bricks-october-2024/8WVLXYZ6aYHGeOocLKVw6OGbrOOGnPuPT7PaKgbX-ae27b58d19.png)
 

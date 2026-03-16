@@ -5,6 +5,9 @@ date: 2025-04-02
 category: Brick Sorter Updates
 back_page: brick_sorter_updates_archive
 ---
+This post was originally send out to my newsletter subscribers. The newsletter documents all my updates and imrpovements to the Lego Sorting bot. It is an almost monthly newsletter (in practice, I send out about 6 newsletters per year). You can read previous editions here, or you can subscribe using the form below.
+
+<div class="ml-embedded" data-form="wXZSvx"></div>
 
 ![](/assets/brick_sorter_updates/2025-04-02-ev3-gets-an-update-on-its-way-out-april-2025-lego-sorter-update/BY575xoS1l9Hw31uQT8B2qjYg3Lrz2PYtP4BXxx8-fc0f9ca177.jpg)
 
