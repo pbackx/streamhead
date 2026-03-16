@@ -45,8 +45,7 @@ still awkward to control from an external computer. I hoped the Raspberry Pi
 Build HAT would be the bridge, but in practice it didn't become the solid
 long-term solution I needed.
 
-Then, last December, LEGO announced a new smart brick that many builders assume
-will eventually replace Powered Up.
+Then, last December, not much after my previous newsletter, LEGO announced a new smart brick that many builders assume will eventually replace Powered Up.
 
 So I've been in a bit of a dip these last few months, unsure whether I should
 keep forcing a pure-LEGO path, or move toward non-LEGO components with a more
